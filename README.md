@@ -29,3 +29,7 @@ git clone <your-repo-link>
 cd employee-management-system
 pip install -r requirements.txt
 python manage.py runserver
+
+# employee-management-system
+Django REST API with role-based access(Admin,manager,employee)
+>>>>>>> 782f62bf5d8b931b77fe121de014ce204ab6fd1a
